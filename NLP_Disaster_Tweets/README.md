@@ -1,4 +1,4 @@
-# Project: University Student Admission PredicitonProject 
+# Project: University Student Admission Prediciton Project 
 > The goal of this project is to predict the admission of a student in an University taking into account the following points:
 
 > Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
